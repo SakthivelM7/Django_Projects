@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sakthivel M</h1>
+<h1 align="center">Hi 👋, I'm Sakthivel Murugesan</h1>
 <h3 align="center">A passionate Fullstack developer from Tamil Nadu</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivelm7&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivelm7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthivelm7" alt="sakthivelm7" /></a> </p>
 
@@ -7,9 +9,15 @@
 
 - 🌱 I’m currently learning **Django**
 
+- 👯 I’m looking to collaborate on **Django Projects**
+
 - 🤝 I’m looking for help with **AI**
 
 - 📫 How to reach me **Instagram**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-gn-CxiNBCXCjEqTsjuCQP2cN4dlde24/view?usp=drive_link](https://drive.google.com/file/d/1-gn-CxiNBCXCjEqTsjuCQP2cN4dlde24/view?usp=drive_link)
+
+- ⚡ Fun fact **Enthusiastic Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
