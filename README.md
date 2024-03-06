@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Instagram**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-gn-CxiNBCXCjEqTsjuCQP2cN4dlde24/view?usp=drive_link](https://drive.google.com/file/d/1-gn-CxiNBCXCjEqTsjuCQP2cN4dlde24/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1mdNwoGxxDvF9ZVONC4wYf2A6oTdh5Uay/view?usp=sharing
 
 - ⚡ Fun fact **I'm a Enthusiastic Man**
 
