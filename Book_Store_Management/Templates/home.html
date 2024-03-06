@@ -1,0 +1,26 @@
+{% extends 'basic.html' %}
+{% load static %}
+{% block title %}
+Home Page
+{% endblock %}
+
+{% block content %}
+<div class="container" align="center">
+<div class="card" style="width: 38rem;">
+  <img src="{% static 'images/books.webp' %}" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Book Management System</h5>
+    <p class="card-text">Manage The Author & Books Information</p>
+
+    {% if request.session.name %}
+    <div class="container" align="center"> <a href="{% url 'addauthor' %}" class="btn btn-success">Add Author</a>
+    <a href="{% url 'addbook' %}" class="btn btn-success">Add Book</a></div>
+
+    {% endif %}
+    <div class="container" align="center"><a href="{% url 'displaybook' %}" class="btn btn-dark">Display Book</a>
+     <a href="{% url 'displayauthor' %}" class="btn btn-dark">Display Author</a></div>
+
+  </div>
+</div>
+</div>
+{% endblock %}
