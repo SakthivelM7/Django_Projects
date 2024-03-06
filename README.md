@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sakthivel Murugesan</h1>
-<h3 align="center">A passionate Fullstack developer from Tamil Nadu</h3>
+<h3 align="center">A Passionate Fullstack developer from Tamil Nadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivelm7&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivelm7" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-gn-CxiNBCXCjEqTsjuCQP2cN4dlde24/view?usp=drive_link](https://drive.google.com/file/d/1-gn-CxiNBCXCjEqTsjuCQP2cN4dlde24/view?usp=drive_link)
 
-- ⚡ Fun fact **Enthusiastic Man**
+- ⚡ Fun fact **I'm a Enthusiastic Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,8 @@
 <a href="https://fb.com/sakthivel m sakthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakthivel m sakthi" height="30" width="40" /></a>
 <a href="https://instagram.com/@hey_sakthi_vlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hey_sakthi_vlog" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sign in tamil nadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sign in tamil nadu" height="30" width="40" /></a>
+<a https://img.shields.io/youtube/channel/subscribers/SigninTamilNadu target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sign in tamil nadu" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
