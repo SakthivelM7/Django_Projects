@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="{% static 'css/login.css' %}" rel="stylesheet">
+</head>
+<body id="bg" style="background-image:url('{% static 'images/movie.jpg' %}');">
+<form action="reg" method="post">
+  {% csrf_token %}
+  <h1 align="center" style="color:green"> Welcome to Registration page</h1>
+  <h3  align="center" style="color:red">{{ msg }}</h3>
+  <table align="center" >
+     <tr>
+    <td><b>FirstName:</b></td>
+    <td><input type="text" name="txtfirstname"></td>
+    </tr>
+    <tr>
+    <td><b>LastName:</b></td>
+    <td><input type="text" name="txtlastname" ></td>
+    </tr>
+    <tr>
+    <td><b>Phno:</b></td>
+    <td><input type="number" name="txtnum" ></td>
+    </tr>
+    <tr>
+    <td><b>Email:</b></td>
+    <td><input type="email" name="txtemail"></td>
+    </tr>
+    <tr>
+    <td><b>Password:</b></td>
+    <td><input type="password" name="txtPassword"> </td>
+    </tr>
+    <tr>
+      <td align="right" colspan="1">
+        <td><input type="submit" name="btnlogin" value="Register" ></td>
+
+    </tr>
+    <tr>
+      <td align="center" colspan="1">
+      <td><a href="{% url 'log' %}">Login</a></td>
+    </tr>
+  </table>
+</form>
+</body>
+</html>
+

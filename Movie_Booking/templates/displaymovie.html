@@ -1,0 +1,30 @@
+{% extends 'adminnavbar.html' %}
+{% block content %}
+<body style="background-color:orange">
+<h2 align="center">Movie Details</h2>
+<table align="center" class="table">
+    <tr>
+        <th>MovieID</th>
+        <th>MovieName</th>
+        <th>HeroName</th>
+        <th>HeroinName</th>
+        <th>Director</th>
+        <th>Cost</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    {% for i in moviedata %}
+    <tr>
+        <td>{{ i.id }}</td>
+        <td>{{ i.mov_name }}</td>
+        <td>{{ i.hero_name }}</td>
+        <td>{{ i.heroin_name }}</td>
+        <td>{{ i.director_name }}</td>
+        <td>{{ i.cost }}</td>
+        <td><a href="{% url 'updatemovie' i.id %}">Update</a> </td>
+        <td><a href="{% url 'deletemovie' i.id %}">Delete</a> </td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+{% endblock %}

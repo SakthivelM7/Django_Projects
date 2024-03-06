@@ -1,0 +1,45 @@
+{% extends 'adminnavbar.html' %}
+{% block content %}
+<h3 align="center" style="color:orange">{{ msg }}</h3>
+<h2 align="center" style="color:purpel">Booking Details</h2>
+<body style="background-color:yellow">
+<form action="" method="post">
+  {% csrf_token %}
+  <table align="center">
+    <tr>
+      <td><b>MovieID:</b></td>
+      <td><select name="ddlmovie">
+          <option selected>{{Booking.id }}</option>
+          {% for i in moviedata %}
+          <option>{{ i.id }}</option>
+          {% endfor %}
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Cust_ID:</b></td>
+      <td><select name="ddlcust">
+          <option selected>{{ Booking.id }}</option>
+          {% for i in custdata %}
+          <option>{{ i.id }}</option>
+          {% endfor %}
+        </select>
+      </td>
+    </tr>
+      <tr>
+      <td><b>No_of_seats:</b></td>
+      <td><input type="number" name="txtseats" value="{{ Booking.No_of_seats}}"></td>
+    </tr>
+       <tr>
+      <td><b>Cost:</b></td>
+      <td><input type="number" name="txtcost" value="{{ Booking.cost}}"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <input type="submit" name="btnsubmit" value="updateBooking">
+      </td>
+    </tr>
+  </table>
+</form>
+</body>
+{% endblock %}
