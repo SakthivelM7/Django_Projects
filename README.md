@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sakthivel Murugesan</h1>
-<h3 align="center">A Passionate Fullstack developer from Tamil Nadu</h3>
+<h3 align="center">A Passionate Python Fullstack developer from Tamil Nadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivelm7&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivelm7" /> </p>
 
